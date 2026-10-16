@@ -18,6 +18,9 @@ import com.magtGlobal.insurence.service.PolicyService;
 @RequestMapping("/api/policies")
 public class PolicyController {
 
+	/*
+	 * testing
+	 */
     @Autowired
     private PolicyService policyService;
 
